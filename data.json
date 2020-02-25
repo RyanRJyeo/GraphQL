@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@email.com",
+      "age": 45
+    },
+    {
+      "id": "2",
+      "name": "Thomas Smith",
+      "email": "thomas@email.com",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Jane Jonas",
+      "email": "jane@email.com",
+      "age": 35
+    },
+    {
+      "id": "4",
+      "name": "Steve Walker",
+      "email": "steve@email.com",
+      "age": 15
+    },
+    {
+      "name": "Harry White",
+      "email": "harry@email.com",
+      "age": 30,
+      "id": "gVt9f5_"
+    }
+  ]
+}
